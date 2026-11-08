@@ -1,48 +1,95 @@
-# Issam El Gamez
+<h1 align="center">Issam El Gamez</h1>
+<p align="center">Développeur full stack · Evidence Way · Casablanca</p>
+<p align="center">
+  <a href="https://issamprofile.netlify.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/issam-el-gamez-b7a75326a">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:issamgamez17@gmail.com">issamgamez17@gmail.com</a>
+</p>
 
-Développeur full stack et lead technique · Casablanca
-
-Chez Evidence Way, j’encadre deux développeurs et je livre des applications web et mobiles, de l’API REST sécurisée au déploiement Docker et Kubernetes. Spécialisé en React, TypeScript et NestJS, également à l’aise sur Angular et .NET.
+Je conçois et livre des applications web et mobiles, de l’API REST sécurisée au déploiement Docker et Kubernetes. Spécialisé en React, TypeScript et NestJS, également à l’aise sur Angular et .NET.
 
 Master IRCIA en cours à l’ENSA de Fès — réseaux, cybersécurité et intelligence artificielle.
 
-## Technologies
+<h3 align="center">Technologies</h3>
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Frontend**  
-React, TypeScript, Vite, Material UI, Redux Toolkit, React Hook Form, Zod, i18next, Leaflet, Mapbox GL, Angular, RxJS, Angular Material, Tailwind CSS
+React · TypeScript · Angular  
+Vite · Material UI · Redux Toolkit  
+RxJS · Tailwind CSS · Leaflet
 
 **Mobile**  
-React Native, Expo, React Navigation, React Native Paper, Socket.IO
+React Native · Expo  
+React Navigation · Socket.IO
+
+</td>
+<td valign="top" width="34%">
 
 **Backend**  
-NestJS, Node.js, Express, TypeORM, KafkaJS, Swagger, PHP / Laravel, Java, Spring Boot, JasperReports
+NestJS · Node.js · Express  
+TypeORM · Laravel · Spring Boot  
+JasperReports · Swagger
 
 **.NET**  
-C#, ASP.NET Core, Entity Framework Core, SignalR, ASP.NET Core Identity
-
-**Données**  
-PostgreSQL, Redis, Apache Kafka, AWS S3, pgvector, SQLite
+C# · ASP.NET Core  
+Entity Framework Core · SignalR
 
 **IA**  
-Python, FastAPI, embeddings
+Python · FastAPI
+
+</td>
+<td valign="top" width="33%">
+
+**Données**  
+PostgreSQL · Redis · Kafka  
+AWS S3 · pgvector
 
 **Sécurité**  
-Keycloak, JWT, Spring Security
+Keycloak · JWT
 
 **DevOps**  
-Docker, Nginx, Kubernetes, AWS EKS, ECR, GitHub Actions
+Docker · Nginx · Kubernetes  
+AWS EKS · GitHub Actions
 
 **Tests**  
-Jest, Supertest, Vitest, xUnit, pytest
+Jest · Vitest · xUnit · pytest
 
-## Projets
+</td>
+</tr>
+</table>
 
-| Projet | Code | Stack |
-| --- | --- | --- |
-| [Portfolio](https://issamprofile.netlify.app) | [portfolio](https://github.com/ElGamezEvidence/portfolio) | React, TypeScript, Vite |
-| GAAMOUZE, vitrine | [parfums_gamouz_front](https://github.com/ElGamezEvidence/parfums_gamouz_front) | React, Vite, Tailwind CSS |
-| GAAMOUZE, API | [parfums_gamouz_back](https://github.com/ElGamezEvidence/parfums_gamouz_back) | Express, Prisma, PostgreSQL |
+<h3 align="center">Projets</h3>
 
-## Contact
+<table>
+<tr>
+<td valign="top" width="33%">
 
-[Portfolio](https://issamprofile.netlify.app) · [LinkedIn](https://www.linkedin.com/in/issam-el-gamez-b7a75326a) · [issamgamez17@gmail.com](mailto:issamgamez17@gmail.com)
+**[Portfolio](https://issamprofile.netlify.app)**  
+Site personnel bilingue.  
+React · TypeScript · Vite  
+[Code](https://github.com/ElGamezEvidence/portfolio)
+
+</td>
+<td valign="top" width="34%">
+
+**GAAMOUZE — vitrine**  
+Boutique en ligne.  
+React · Vite · Tailwind CSS  
+[Code](https://github.com/ElGamezEvidence/parfums_gamouz_front)
+
+</td>
+<td valign="top" width="33%">
+
+**GAAMOUZE — API**  
+Catalogue, commandes, comptes.  
+Express · Prisma · PostgreSQL  
+[Code](https://github.com/ElGamezEvidence/parfums_gamouz_back)
+
+</td>
+</tr>
+</table>
