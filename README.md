@@ -14,17 +14,48 @@ Master IRCIA en cours à l’ENSA de Fès — réseaux, cybersécurité et intel
 
 ## Technologies
 
-| Domaine | Outils |
-| --- | --- |
-| Frontend | React, TypeScript, Angular, Vite, Material UI, Redux Toolkit, RxJS, Tailwind CSS |
-| Mobile | React Native, Expo, React Navigation, Socket.IO |
-| Backend | NestJS, Node.js, Express, TypeORM, Laravel, Spring Boot, Swagger |
-| .NET | C#, ASP.NET Core, Entity Framework Core, SignalR |
-| Données | PostgreSQL, Redis, Kafka, AWS S3, pgvector |
-| IA | Python, FastAPI |
-| Sécurité | Keycloak, JWT |
-| DevOps | Docker, Nginx, Kubernetes, AWS EKS, GitHub Actions |
-| Tests | Jest, Vitest, xUnit, pytest |
+<table width="100%">
+  <tr>
+    <th align="left" width="18%">Domaine</th>
+    <th align="left">Outils</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React, TypeScript, Angular, Vite, Material UI, Redux Toolkit, RxJS, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>Mobile</td>
+    <td>React Native, Expo, React Navigation, Socket.IO</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>NestJS, Node.js, Express, TypeORM, Laravel, Spring Boot, Swagger</td>
+  </tr>
+  <tr>
+    <td>.NET</td>
+    <td>C#, ASP.NET Core, Entity Framework Core, SignalR</td>
+  </tr>
+  <tr>
+    <td>Données</td>
+    <td>PostgreSQL, Redis, Kafka, AWS S3, pgvector</td>
+  </tr>
+  <tr>
+    <td>IA</td>
+    <td>Python, FastAPI</td>
+  </tr>
+  <tr>
+    <td>Sécurité</td>
+    <td>Keycloak, JWT</td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>Docker, Nginx, Kubernetes, AWS EKS, GitHub Actions</td>
+  </tr>
+  <tr>
+    <td>Tests</td>
+    <td>Jest, Vitest, xUnit, pytest</td>
+  </tr>
+</table>
 
 ## Projets
 
