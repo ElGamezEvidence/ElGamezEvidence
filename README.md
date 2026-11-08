@@ -12,84 +12,22 @@ Je conçois et livre des applications web et mobiles, de l’API REST sécurisé
 
 Master IRCIA en cours à l’ENSA de Fès — réseaux, cybersécurité et intelligence artificielle.
 
-<h3 align="center">Technologies</h3>
+## Technologies
 
-<table>
-<tr>
-<td valign="top" width="33%">
+| Domaine | Outils |
+| --- | --- |
+| Frontend | React, TypeScript, Angular, Vite, Material UI, Redux Toolkit, RxJS, Tailwind CSS |
+| Mobile | React Native, Expo, React Navigation, Socket.IO |
+| Backend | NestJS, Node.js, Express, TypeORM, Laravel, Spring Boot, Swagger |
+| .NET | C#, ASP.NET Core, Entity Framework Core, SignalR |
+| Données | PostgreSQL, Redis, Kafka, AWS S3, pgvector |
+| IA | Python, FastAPI |
+| Sécurité | Keycloak, JWT |
+| DevOps | Docker, Nginx, Kubernetes, AWS EKS, GitHub Actions |
+| Tests | Jest, Vitest, xUnit, pytest |
 
-**Frontend**  
-React · TypeScript · Angular  
-Vite · Material UI · Redux Toolkit  
-RxJS · Tailwind CSS · Leaflet
+## Projets
 
-**Mobile**  
-React Native · Expo  
-React Navigation · Socket.IO
+**[Portfolio](https://issamprofile.netlify.app)** — site personnel bilingue, React, TypeScript et Vite. [Code](https://github.com/ElGamezEvidence/portfolio)
 
-</td>
-<td valign="top" width="34%">
-
-**Backend**  
-NestJS · Node.js · Express  
-TypeORM · Laravel · Spring Boot  
-JasperReports · Swagger
-
-**.NET**  
-C# · ASP.NET Core  
-Entity Framework Core · SignalR
-
-**IA**  
-Python · FastAPI
-
-</td>
-<td valign="top" width="33%">
-
-**Données**  
-PostgreSQL · Redis · Kafka  
-AWS S3 · pgvector
-
-**Sécurité**  
-Keycloak · JWT
-
-**DevOps**  
-Docker · Nginx · Kubernetes  
-AWS EKS · GitHub Actions
-
-**Tests**  
-Jest · Vitest · xUnit · pytest
-
-</td>
-</tr>
-</table>
-
-<h3 align="center">Projets</h3>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**[Portfolio](https://issamprofile.netlify.app)**  
-Site personnel bilingue.  
-React · TypeScript · Vite  
-[Code](https://github.com/ElGamezEvidence/portfolio)
-
-</td>
-<td valign="top" width="34%">
-
-**GAAMOUZE — vitrine**  
-Boutique en ligne.  
-React · Vite · Tailwind CSS  
-[Code](https://github.com/ElGamezEvidence/parfums_gamouz_front)
-
-</td>
-<td valign="top" width="33%">
-
-**GAAMOUZE — API**  
-Catalogue, commandes, comptes.  
-Express · Prisma · PostgreSQL  
-[Code](https://github.com/ElGamezEvidence/parfums_gamouz_back)
-
-</td>
-</tr>
-</table>
+**[GAAMOUZE](https://github.com/ElGamezEvidence/parfums_gamouz_front)** — boutique en ligne. Vitrine React et Tailwind, API Express, Prisma et PostgreSQL. [Vitrine](https://github.com/ElGamezEvidence/parfums_gamouz_front) · [API](https://github.com/ElGamezEvidence/parfums_gamouz_back)
